@@ -5,3 +5,5 @@ i'm exciting to use git
 and now i'm learn git.
 
 creat a new branch dev.
+
+creat a new branch is simple.
