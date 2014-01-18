@@ -6,4 +6,4 @@ and now i'm learn git.
 
 creat a new branch dev.
 
-creat a new branch is simple.
+creat a new branch testme is simple.
